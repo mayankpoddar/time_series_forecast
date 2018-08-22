@@ -6,10 +6,14 @@ The dataset can be downloaded from here: [international-airline-passengers.csv](
 
 ### Setup Instructions
 This code is compatible with: python 3.6.0 <br />
+```
 pip install -r requirements.txt
+```
 
 ### Run Instructions
+```
 python timeSeries.py
+```
 
 ### Model
 - Preprocessing
