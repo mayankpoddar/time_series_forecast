@@ -17,7 +17,7 @@ python timeSeries.py
 
 ### Model
 - Preprocessing
-The dataset is converted to a stationary time series using Log Transformation and Differencing.
+  - The dataset is converted to a stationary time series using Log Transformation and Differencing.
 
 - Model
   - LSTM with number of units equal to twice of lookback value (here, 30) with a dropout of 0.1 and tanh activation
